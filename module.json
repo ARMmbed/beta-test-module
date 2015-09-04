@@ -1,0 +1,17 @@
+{
+  "name": "beta-test-module",
+  "version": "0.0.0",
+  "description": "beta test module",
+  "keywords": [],
+  "author": "Bogdan Marinescu <bogdan.marinescu@arm.com>",
+  "homepage": "",
+  "private": true,
+  "licenses": [
+    {
+      "url": "https://spdx.org/licenses/Apache-2.0",
+      "type": "Apache-2.0"
+    }
+  ],
+  "dependencies": {},
+  "targetDependencies": {}
+}
