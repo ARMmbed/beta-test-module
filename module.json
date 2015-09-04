@@ -1,8 +1,10 @@
 {
   "name": "beta-test-module",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "beta test module",
-  "keywords": ["beta-test-module"],
+  "keywords": [
+    "beta-test-module"
+  ],
   "author": "Bogdan Marinescu <bogdan.marinescu@arm.com>",
   "homepage": "https://github.com/ARMmbed/beta-test-module",
   "licenses": [
