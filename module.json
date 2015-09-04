@@ -5,7 +5,6 @@
   "keywords": ["beta-test-module"],
   "author": "Bogdan Marinescu <bogdan.marinescu@arm.com>",
   "homepage": "https://github.com/ARMmbed/beta-test-module",
-  "private": true,
   "licenses": [
     {
       "url": "https://spdx.org/licenses/Apache-2.0",
